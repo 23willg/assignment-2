@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #include "matrix.h"
 
 #define CHECK_ERR(err, msg)                           \
